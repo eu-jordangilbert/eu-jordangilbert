@@ -44,7 +44,7 @@ Published by [TicketWave HQ](https://github.com/TicketWaveHQ), free to use:
 
 - **BSc (Hons) Architectural Engineering and Design Management**, Loughborough University: engineering and delivery management taught together.
 - **The Architectural Imagination (GSD1x)**, HarvardX: an online course, completed with a [Verified Certificate](https://courses.edx.org/certificates/614c26ddea004818a73d50ad8b264855). Not a Harvard degree.
-- **20+ years building websites, since 2006.**
+- **Building for the web since 2006.**
 
 Before founding the company, engineering and technical design roles at Mott MacDonald, Kier Group, Higgins Partnerships and Sweco, and facilities management at Castlepoint Markets. The full history is on [LinkedIn](https://www.linkedin.com/in/eu-jordangilbert/).
 
