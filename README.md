@@ -50,4 +50,4 @@ Before founding the company, engineering and technical design roles at Mott MacD
 
 ### Elsewhere
 
-[veryseoly.com/jordan](https://veryseoly.com/jordan) · [jortech.co.uk/jordan](https://www.jortech.co.uk/jordan) · [dacros.com/jordan](https://dacros.com/jordan) · [citorah.com/author](https://citorah.com/author) · [custodiance.com/about](https://custodiance.com/about) · [@TicketWaveHQ](https://github.com/TicketWaveHQ)
+[veryseoly.com/jordan](https://veryseoly.com/jordan) · [jortech.co.uk/jordan](https://www.jortech.co.uk/jordan) · [dacros.com/jordan](https://dacros.com/jordan) · [citorah.com/author](https://citorah.com/author) · [custodiance.com/jordan](https://custodiance.com/jordan) · [@TicketWaveHQ](https://github.com/TicketWaveHQ)
