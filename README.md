@@ -32,13 +32,28 @@ I also publish **[Citorah](https://citorah.com)**, city guides, and I am buildin
 
 ### Open source
 
-Published by [TicketWave HQ](https://github.com/TicketWaveHQ), free to use:
+Published by [TicketWave HQ](https://github.com/TicketWaveHQ), free to use, each with tests or a runnable check. Several began as code that runs the company's own sites and backups.
+
+**Websites**
+
+- **[static-csp](https://github.com/TicketWaveHQ/static-csp)**: a hashed Content-Security-Policy for any static build, failing the build on inline handlers and `javascript:` URLs.
+- **[next-export-strip-js](https://github.com/TicketWaveHQ/next-export-strip-js)**: removes the Next.js runtime from a static export when no page needs JavaScript, and refuses when one does.
+- **[pages-to-caddy](https://github.com/TicketWaveHQ/pages-to-caddy)**: Cloudflare Pages and Netlify `_headers` and `_redirects` as Caddyfile rules, refusing any rule it cannot translate exactly.
+- **[person-entity-check](https://github.com/TicketWaveHQ/person-entity-check)**: checks that one person's profile pages agree: JSON-LD names, `sameAs` links, canonicals.
+- **[astro-performance-budget](https://github.com/TicketWaveHQ/astro-performance-budget)**: a Lighthouse CI performance budget and GitHub Actions workflow for Astro sites.
+- **[website-care-checklist](https://github.com/TicketWaveHQ/website-care-checklist)**: what running a website should include, with runnable checks.
+
+**Backups and business systems**
+
+- **[serverless-backup-sentinel](https://github.com/TicketWaveHQ/serverless-backup-sentinel)**: checks from outside that a recent backup exists in S3-compatible storage, and alarms when it does not.
+- **[age-offsite-backups](https://github.com/TicketWaveHQ/age-offsite-backups)**: encrypts backups with age before they leave the machine, and proves on another that every copy decrypts.
+- **[odoo-json2](https://github.com/TicketWaveHQ/odoo-json2)**: TypeScript and Python clients for Odoo's JSON-2 API, with a migration guide from XML-RPC.
+
+**Data protection**
 
 - **[eu-sovereignty-checklist](https://github.com/TicketWaveHQ/eu-sovereignty-checklist)**: a checklist and verification script for keeping a UK or EU service on EEA infrastructure.
 - **[eu-sovereign-stack](https://github.com/TicketWaveHQ/eu-sovereign-stack)**: EEA and UK-hosted alternatives to common US SaaS, each with region-pinning notes.
 - **[uk-gdpr-dpa-templates](https://github.com/TicketWaveHQ/uk-gdpr-dpa-templates)**: plain-English UK GDPR Article 28 agreement and sub-processor templates. Not legal advice.
-- **[website-care-checklist](https://github.com/TicketWaveHQ/website-care-checklist)**: what running a website should include, with runnable checks.
-- **[astro-performance-budget](https://github.com/TicketWaveHQ/astro-performance-budget)**: a Lighthouse CI performance budget and GitHub Actions workflow for Astro sites.
 
 ### Background
 
